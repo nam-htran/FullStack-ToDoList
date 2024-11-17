@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "test@example.com",
+      "password": "$2b$10$1MKxIM7mOFlYziCJ3bNeWuHBcS5ELEDW.Efxli.gjNWxG7R6AMBri",
+      "id": 1
+    },
+    {
+      "email": "namthse182380@fpt.edu.vn",
+      "password": "$2b$10$jD9cKztz8uevk9LT6ivS4.Pcin8hrerxGIsHGeTx0LFK/62lmu/nW",
+      "id": 2
+    }
+  ],
+  "list": []
+}
